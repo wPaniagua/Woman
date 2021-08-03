@@ -1,0 +1,15 @@
+.imagen-fondo
+{
+    /*background-image: url("../img/ww_blue_desktop-1440x664.webp");*/
+    background-color: aqua;
+    width: 1440px;
+    height: 664px;
+}
+
+.imagen-carusel
+{
+    background-color: aqua;
+    width: 250px;
+    height: 350px;
+    margin-top: 40px;
+}
